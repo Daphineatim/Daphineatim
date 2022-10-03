@@ -1,13 +1,11 @@
 ## :wave: Hey, nice to see you!
 
-- 🖥️ I'm currently studying at Microverse :first_place_medal:<img align="center"
-      src="https://media-exp1.licdn.com/dms/image/C560BAQHr8P7gQ95yCQ/company-logo_100_100/0/1578673850004?e=1652918400&v=beta&t=RXH0ssSZr97PvQaT2jIxUMIaJkUaz8y790PmEicZ6WA"
-      alt="adam pithewan" height="30" width="40" />
+- 🖥️ I'm currently studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
       
 - 💻: Learning about Web Development
-- 
+
 - 🚀: Always ready to collaborate for web Design projects.
-- 
+
 - ⚡: Interesting fact: The world's first programmer was a woman:woman: <a href="https://www.google.com/search?gs_ssp=eJzjYtfP1TfISTIyYPTiSUxJVMjJL0vNSUxOBQBNxAcl&q=ada+lovelace&rlz=1C1ZZZB_enUG989UG989&oq=ada+lave&aqs=chrome.1.69i57j46i10j0i10i512j0i10l6.11762j0j7&sourceid=chrome&ie=UTF-8"> Ada Lovelace (My Inspiration)
   
 -  📧: Reach me on @hopedaphine19@gmail.com

@@ -4,7 +4,7 @@
       
 - 💻: Learning about Web Development
 
-- 🚀: Always ready to collaborate for web Design projects.
+- 🚀: Always ready to collaborate for Web Design projects.
 
 - ⚡: Interesting fact: The world's first programmer was a woman:woman: <a href="https://www.google.com/search?gs_ssp=eJzjYtfP1TfISTIyYPTiSUxJVMjJL0vNSUxOBQBNxAcl&q=ada+lovelace&rlz=1C1ZZZB_enUG989UG989&oq=ada+lave&aqs=chrome.1.69i57j46i10j0i10i512j0i10l6.11762j0j7&sourceid=chrome&ie=UTF-8"> Ada Lovelace (My Inspiration)
   

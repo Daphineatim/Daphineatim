@@ -1,8 +1,8 @@
 ## :wave: Hey, nice to see you!
 
-- 🖥️ I'm currently studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🖥️ ![](https://img.shields.io/badge/Microverse-blueviolet) Graduate
       
-- 💻: Learning about Web Development
+- 💻: I am still learning about Web Development
 
 - 🚀: Always ready to collaborate for Web Design projects.
 

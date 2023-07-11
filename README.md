@@ -1,6 +1,6 @@
 ## :wave: Hey, nice to see you!
 
-- 🖥️ ![](https://img.shields.io/badge/Microverse-blueviolet) Graduate
+- 🖥️ [Microverse](https://www.microverse.org) Graduate
       
 - 💻: I am still learning about Web Development
 
